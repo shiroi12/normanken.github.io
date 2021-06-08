@@ -22,7 +22,6 @@ a {
   margin: 0 auto;
 }
 
-
 .container h1 {
   font-family:'Courier New', Courier, monospace;
 }
@@ -76,10 +75,6 @@ a {
 
 .btn:hover {
   opacity: 1;
-}
-
-.fa {
-  margin-right: 5px;
 }
 
 header {
