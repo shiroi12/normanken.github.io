@@ -22,6 +22,10 @@
     .wedding {
       width: 100%;
     }
+
+    .footer-list li {
+      text-align: left;
+    }
     
     footer {
       text-align: center;
@@ -31,9 +35,13 @@
       width: 100%;
     }
     
+    .facebook {
+      margin-bottom: 10px;
+    }
     
     .top-wrapper {
       text-align: left;
+      background-size: contain;
     }
     
     .header-right {
